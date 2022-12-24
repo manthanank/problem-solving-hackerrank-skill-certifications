@@ -1,1 +1,1 @@
-# problem-solving-hackerrank-skill-certifications
+# Problem Solving Hackerrank Skill Certifications
